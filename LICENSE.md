@@ -1,4 +1,4 @@
-# 
+# Exclusif vLLM plugins. Avec contrôle de version et exécution de code — optimisé pour des performances et une efficacité maximales.
 
 
 
